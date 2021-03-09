@@ -1,0 +1,22 @@
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\bin\Debug\ReactionSpeed.exe.config
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\bin\Debug\ReactionSpeed.exe
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\bin\Debug\ReactionSpeed.pdb
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.csprojAssemblyReference.cache
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.Form1.resources
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.Properties.Resources.resources
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.csproj.GenerateResource.cache
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.csproj.CoreCompileInputs.cache
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.exe
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.pdb
+S:\Code\07-01-21\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.Form2.resources
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\bin\Debug\ReactionSpeed.exe.config
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\bin\Debug\ReactionSpeed.exe
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\bin\Debug\ReactionSpeed.pdb
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.csprojAssemblyReference.cache
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.Form1.resources
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.Form2.resources
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.Properties.Resources.resources
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.csproj.GenerateResource.cache
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.exe
+C:\Users\Home1\Documents\Visual Studio 2019\Code\ReactionSpeed\ReactionSpeed\obj\Debug\ReactionSpeed.pdb
